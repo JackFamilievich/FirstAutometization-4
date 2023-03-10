@@ -44,6 +44,7 @@ public class TestAmazon {
         driver.manage().timeouts().implicitlyWait(3,TimeUnit.SECONDS);
 
 
+
         driver.quit();
 
 
